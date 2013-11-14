@@ -1,0 +1,3 @@
+[submodule "Vendor/HtmlPurifier"]
+	path = Vendor/HtmlPurifier
+	url = git://repo.or.cz/htmlpurifier.git
